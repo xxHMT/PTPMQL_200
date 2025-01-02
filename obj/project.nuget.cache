@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4tTnrVvPDCk=",
+  "dgSpecHash": "gjHCa5BVH9o=",
   "success": true,
-  "projectFilePath": "D:\\Tai lieu hoc tap\\NetCore\\PTPMQL_200\\DemoMvc\\DemoMvc.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\PTPMQL_200\\DemoMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

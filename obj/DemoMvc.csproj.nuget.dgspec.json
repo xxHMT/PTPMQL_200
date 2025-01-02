@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tai lieu hoc tap\\NetCore\\PTPMQL_200\\DemoMvc\\DemoMvc.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\PTPMQL_200\\DemoMvc.csproj": {}
   },
   "projects": {
-    "D:\\Tai lieu hoc tap\\NetCore\\PTPMQL_200\\DemoMvc\\DemoMvc.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\PTPMQL_200\\DemoMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tai lieu hoc tap\\NetCore\\PTPMQL_200\\DemoMvc\\DemoMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\PTPMQL_200\\DemoMvc.csproj",
         "projectName": "DemoMvc",
-        "projectPath": "D:\\Tai lieu hoc tap\\NetCore\\PTPMQL_200\\DemoMvc\\DemoMvc.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\PTPMQL_200\\DemoMvc.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Tai lieu hoc tap\\NetCore\\PTPMQL_200\\DemoMvc\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\PTPMQL_200\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -9,5 +9,6 @@ namespace DemoMvc.Data
         {}
         public DbSet<Student> Student {get; set;}
         public DbSet<Account> Account { get; set; } = default!;
+        public DbSet<Customer> Customer { get; set; } = default!;
     }
 }
